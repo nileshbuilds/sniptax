@@ -1,4 +1,4 @@
-Sniptax
+**Sniptax**
 Sniptax is a library of reusable web code snippets. Perfect for beginners, it lets you quickly add clean, modern sections to your websites.
 Features
 1. Ready-to-use HTML & CSS snippets
